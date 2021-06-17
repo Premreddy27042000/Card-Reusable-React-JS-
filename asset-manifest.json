@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://premreddy27042000.github.io/csb-3rfiw/static/js/main.96f13cf9.chunk.js",
+    "main.js.map": "https://premreddy27042000.github.io/csb-3rfiw/static/js/main.96f13cf9.chunk.js.map",
+    "runtime-main.js": "https://premreddy27042000.github.io/csb-3rfiw/static/js/runtime-main.eabcd0bd.js",
+    "runtime-main.js.map": "https://premreddy27042000.github.io/csb-3rfiw/static/js/runtime-main.eabcd0bd.js.map",
+    "static/js/2.41d2c938.chunk.js": "https://premreddy27042000.github.io/csb-3rfiw/static/js/2.41d2c938.chunk.js",
+    "static/js/2.41d2c938.chunk.js.map": "https://premreddy27042000.github.io/csb-3rfiw/static/js/2.41d2c938.chunk.js.map",
+    "index.html": "https://premreddy27042000.github.io/csb-3rfiw/index.html",
+    "precache-manifest.5fba23f9ce53bf0c7acc092036106d13.js": "https://premreddy27042000.github.io/csb-3rfiw/precache-manifest.5fba23f9ce53bf0c7acc092036106d13.js",
+    "service-worker.js": "https://premreddy27042000.github.io/csb-3rfiw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eabcd0bd.js",
+    "static/js/2.41d2c938.chunk.js",
+    "static/js/main.96f13cf9.chunk.js"
+  ]
+}
